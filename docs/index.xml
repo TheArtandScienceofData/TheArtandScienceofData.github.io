@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>The Art and Science of Data</title>
+    <link>https://TheArtandScienceofData.github.io</link>
+    <atom:link href="https://TheArtandScienceofData.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Looking at common problems through the eyes of data
+</description>
+    <image>
+      <title>The Art and Science of Data</title>
+      <url>https://TheArtandScienceofData.github.io/assets/logo.png</url>
+      <link>https://TheArtandScienceofData.github.io</link>
+    </image>
+    <generator>Radix</generator>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to The Art and Science of Data</title>
+      <dc:creator>Rosebud Anwuri</dc:creator>
+      <link>https://TheArtandScienceofData.github.io/posts/welcome</link>
+      <description>Looking at common problems through the eyes of data</description>
+      <guid>https://TheArtandScienceofData.github.io/posts/welcome</guid>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://cdn-images-1.medium.com/max/800/0*Eu_lLnqjWKGm2UK1" medium="image" type="text/plain"/>
+    </item>
+  </channel>
+</rss>

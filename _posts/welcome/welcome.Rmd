@@ -1,0 +1,32 @@
+---
+title: "Welcome to The Art and Science of Data"
+description: |
+  Looking at common problems through the eyes of data
+preview: https://cdn-images-1.medium.com/max/800/0*Eu_lLnqjWKGm2UK1
+author:
+  - name: Rosebud Anwuri 
+    url: https://example.com/norajones
+    affiliation: Art and Science of Data
+date: 09-25-2018
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+<div>
+What’s the most common thing you hear from “older” people about the popular modern music? The general theme is: “Your music is too loud and lacks content”. They talk about the “old” days with the meaningful songs, the soulful artistes, the deep bass guitars that can move you to tears. When they say that, they are comparing this:
+
+<video width="320" height="240" controls>
+  <source src="old_music.mp4" type="video/mp4">
+</video>
+</div>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Radix at:
+# https://rstudio.github.io/radix/blog.html
+
+```
+
+
+

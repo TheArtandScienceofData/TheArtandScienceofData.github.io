@@ -1,0 +1,28 @@
+name: "The Art and Science of Data"
+title: "The Art and Science of Data"
+description: |
+  Looking at common problems through the eyes of data
+base_url: https://TheArtandScienceofData.github.io
+output_dir: "docs"
+google_analytics: "UA-120214141-1"
+favicon: assets/logo.png
+twitter:
+  site: "@rosebudanwuri"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-rss
+      href: index.xml
+output: 
+  radix::radix_article:
+    css: style.css
+collections:
+  posts:
+    disqus: art-and-science-of-data
+    share: [twitter, linkedin, facebook]
+    subscribe: _subscribe.html
+    citations: false
+    
