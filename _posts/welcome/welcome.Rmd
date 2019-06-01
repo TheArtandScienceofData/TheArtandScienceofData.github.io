@@ -9,7 +9,7 @@ author:
     affiliation: Art and Science of Data
 date: 09-25-2018
 output:
-  radix::radix_article:
+  distill::distill_article:
     self_contained: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Art and Science of Data"
-site: radix::radix_website
+site: distill::distill_website
 listing: posts
 ---
 <div style="text-align:center;margin-top:3.5em;">
