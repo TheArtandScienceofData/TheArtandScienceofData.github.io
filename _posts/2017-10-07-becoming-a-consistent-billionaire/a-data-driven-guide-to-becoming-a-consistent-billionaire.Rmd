@@ -9,7 +9,7 @@ date: 07-10-2017
 output:
    radix::radix_article:
     self_contained: false
-draft: true
+draft: false
 ---
 
 ```{r setup, include=FALSE}
