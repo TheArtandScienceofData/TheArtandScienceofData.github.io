@@ -6,7 +6,6 @@ author:
   - name: Rosebud Anwuri
     url: https://example.com/norajones
 date: 09-26-2018
-draft: false
 output:
   radix::radix_article:
     self_contained: false
