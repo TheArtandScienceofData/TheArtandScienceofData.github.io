@@ -3,7 +3,7 @@ title: "The Art and Science of Data"
 description: |
   Looking at common problems through the eyes of data
 base_url: https://TheArtandScienceofData.github.io
-output_dir: "docs"
+output_dir: "."
 google_analytics: "UA-120214141-1"
 favicon: assets/logo.png
 twitter:
