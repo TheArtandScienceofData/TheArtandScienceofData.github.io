@@ -1,0 +1,62 @@
+[
+  {
+    "path": "posts/2018-09-26-billboard-hot-100-analytics/",
+    "title": "Billboard Hot 100 Analytics",
+    "description": "Using Data to Understand The Shift in Popular Music in The Last 60 Years",
+    "author": [
+      {
+        "name": "Rosebud Anwuri",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-09-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-06-01T22:56:04+01:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to The Art and Science of Data",
+    "description": "Looking at common problems through the eyes of data",
+    "author": [
+      {
+        "name": "Rosebud Anwuri",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-09-25",
+    "categories": [],
+    "preview": "https://cdn-images-1.medium.com/max/800/0*Eu_lLnqjWKGm2UK1",
+    "last_modified": "2019-05-29T15:05:18+01:00"
+  },
+  {
+    "path": "posts/2018-03-01-my-journey-into-data-science/",
+    "title": "My Journey Into Data Science",
+    "description": {},
+    "author": [
+      {
+        "name": "Rosebud Anwuri",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-03-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-06-01T23:00:32+01:00"
+  },
+  {
+    "path": "posts/2017-10-07-becoming-a-consistent-billionaire/",
+    "title": "A Data Driven Guide to Becoming a Consistent Billionaire",
+    "description": "Did You Really Think All Billionaires Were The Same?",
+    "author": [
+      {
+        "name": "Rosebud Anwuri",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2017-07-10",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-06-01T21:28:58+01:00"
+  }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>The Art and Science of Data</title>
+    <link>https://TheArtandScienceofData.github.io</link>
+    <atom:link href="https://TheArtandScienceofData.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Looking at common problems through the eyes of data
+</description>
+    <image>
+      <title>The Art and Science of Data</title>
+      <url>https://TheArtandScienceofData.github.io/assets/logo.png</url>
+      <link>https://TheArtandScienceofData.github.io</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Billboard Hot 100 Analytics</title>
+      <dc:creator>Rosebud Anwuri</dc:creator>
+      <link>https://TheArtandScienceofData.github.io/posts/2018-09-26-billboard-hot-100-analytics</link>
+      <description>Using Data to Understand The Shift in Popular Music in The Last 60 Years</description>
+      <guid>https://TheArtandScienceofData.github.io/posts/2018-09-26-billboard-hot-100-analytics</guid>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to The Art and Science of Data</title>
+      <dc:creator>Rosebud Anwuri</dc:creator>
+      <link>https://TheArtandScienceofData.github.io/posts/welcome</link>
+      <description>Looking at common problems through the eyes of data</description>
+      <guid>https://TheArtandScienceofData.github.io/posts/welcome</guid>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://cdn-images-1.medium.com/max/800/0*Eu_lLnqjWKGm2UK1" medium="image" type="text/plain"/>
+    </item>
+    <item>
+      <title>My Journey Into Data Science</title>
+      <dc:creator>Rosebud Anwuri</dc:creator>
+      <link>https://TheArtandScienceofData.github.io/posts/2018-03-01-my-journey-into-data-science</link>
+      <description>My Journey Into Data Science</description>
+      <guid>https://TheArtandScienceofData.github.io/posts/2018-03-01-my-journey-into-data-science</guid>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Data Driven Guide to Becoming a Consistent Billionaire</title>
+      <dc:creator>Rosebud Anwuri</dc:creator>
+      <link>https://TheArtandScienceofData.github.io/posts/2017-10-07-becoming-a-consistent-billionaire</link>
+      <description>Did You Really Think All Billionaires Were The Same?</description>
+      <guid>https://TheArtandScienceofData.github.io/posts/2017-10-07-becoming-a-consistent-billionaire</guid>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
