@@ -4,7 +4,7 @@ site: distill::distill_website
 listing: posts
 ---
 <div style="text-align:center;margin-top:3.5em;">
-![](assets/home.jpg) 
+![](assets/home.svg) 
 
 
 </div>
